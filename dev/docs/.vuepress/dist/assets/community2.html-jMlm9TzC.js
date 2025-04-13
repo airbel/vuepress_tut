@@ -1,0 +1,1 @@
+import{_ as e,c as n,a as o,o as m}from"./app-WzmACrLk.js";const a={};function c(r,t){return m(),n("div",null,t[0]||(t[0]=[o("p",null,"HELLO",-1)]))}const l=e(a,[["render",c]]),s=JSON.parse('{"path":"/community/community2.html","title":"","lang":"zh-TW","frontmatter":{},"git":{},"filePathRelative":"community/community2.md"}');export{l as comp,s as data};
