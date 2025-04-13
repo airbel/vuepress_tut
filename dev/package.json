@@ -1,0 +1,13 @@
+{
+  "name": "vuepress_tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.21",
+    "@vuepress/theme-default": "^2.0.0-rc.94",
+    "vuepress": "^2.0.0-rc.21"
+  }
+
+
+}
